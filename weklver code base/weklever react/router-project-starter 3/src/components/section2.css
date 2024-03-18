@@ -1,0 +1,71 @@
+.section_two{
+    /* border: 2px solid red; */
+    background-color: #141313;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.section_two_left,.section_two_right{
+    /* border: 2px solid green; */
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 40%;
+}
+
+.para_section_two_left > :nth-child(1) {
+    color: white;
+    font-size: 3vw
+}
+
+.para_section_two_left > :nth-child(2){
+    color: #C0C0C0;
+    font-size: 1.5vw;
+    margin-top: 2%;
+}
+
+.para_section_two_left{
+    width: 50vw;
+    padding: 5vw;
+}
+
+.section_two_right img{
+width: 35vw;
+}
+
+.section_two{
+    /* border: 2px solid red; */
+    background-color: #141313;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.section_two_left,.section_two_right{
+    /* border: 2px solid green; */
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 40%;
+}
+
+.para_section_two_left > :nth-child(1) {
+    color: white;
+    font-size: 3vw
+}
+
+.para_section_two_left > :nth-child(2){
+    color: #C0C0C0;
+    font-size: 1.5vw;
+    margin-top: 2%;
+}
+
+.para_section_two_left{
+    width: 50vw;
+    padding: 5vw;
+}
+
+.section_two_right img{
+width: 35vw;
+}
